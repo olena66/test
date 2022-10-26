@@ -2,8 +2,6 @@
 
 #test run
 
-
-
 run command below
 
 _npm i_
